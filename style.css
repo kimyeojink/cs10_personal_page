@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #98FF98;
-    color: #fff;
+    background-color: #a95a81;
+    color: #080505;
     padding: 20px;
     text-align: center;
 }
@@ -41,10 +41,10 @@ section h2 {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #a95a81;
+    color: #080505;
+    padding: 20px;
     text-align: center;
-    padding: 10px;
 }
 
 form label {
